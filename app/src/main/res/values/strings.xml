@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">moneyCollect</string>
+    <string name="todayused">Today</string>
+    <string name="max">Max</string>
+    <string name="target">Target</string>
+    <string name="money" translatable="false">00</string>
+    <string name="max_money" translatable="false">50</string>
+    <string name="min_money" translatable="false">40</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="content" translatable="false">\"Run, Mellors\" is a short story by Japanese writer Taisaji. It was published in Trendy magazine in May 1940. The novel, which tells the story of Mellors using his honesty to move the tyrant to stop killing, is concise and compact. In 1956, the novel was selected into the Japanese textbooks for the second grade of high schools, and was later adapted into the screen together with The Novel \"The Loss of Humanity\".</string>
+    <string name="time" translatable="false">2020-8-25</string>
+    <string name="tag_message">Message Detail</string>
+</resources>
